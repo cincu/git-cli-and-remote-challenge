@@ -1,3 +1,10 @@
+branches:
+git switch -c branchname to make a new one
+git switch branchname
+git branch (for the list)
+git branch -a (list all branches local and remote(
+git branch -d branchname (delete branch)
+
 dasdasdstall
 GitHub dasdasdstall
 GitHub Desktop
