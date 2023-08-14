@@ -1,14 +1,11 @@
+<p>
 branches:
+
 git switch -c branchname to make a new one
 git switch branchname
 git branch (for the list)
-git branch -a (list all branches local and remote(
+git branch -a (list all branches local and remote)
 git branch -d branchname (delete branch)
-
-dasdasdstall
-GitHub dasdasdstall
-GitHub Desktop
-desktop.github.com
 
 Git for All Platforms
 git-scm.com
@@ -39,14 +36,7 @@ $ git switch -c [branch-name]
 
 Switches to the specified branch and updates the working directory
 
-$ git merge [branch]Desktop:x
-
-:x
-i
-:i
-:w
-
-desktop.github.com
+$ git merge [branch]Desktop
 
 Git for All Platforms
 git-scm.com
@@ -200,4 +190,4 @@ Undoes all commits after [commit], preserving changes locally
 
 $ git reset --hard [commit]
 
-Discards all history and changes back to the specified commi
+</p>
